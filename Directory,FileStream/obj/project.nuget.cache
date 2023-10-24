@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpKPSrXObDQDe1B6IdNgYC7dsn6PcHSA1Sj/S0oYQEjxGmfoU+QHHeTRwnuRk3Vp4rC8cxN0mN1gWlSIFZoukA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\Directory,FileStream\\Directory,FileStream\\Directory,FileStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

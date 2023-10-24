@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\bin\Debug\net6.0\Directory,FileStream.exe
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\bin\Debug\net6.0\Directory,FileStream.deps.json
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\bin\Debug\net6.0\Directory,FileStream.runtimeconfig.json
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\bin\Debug\net6.0\Directory,FileStream.dll
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\bin\Debug\net6.0\Directory,FileStream.pdb
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.dll
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\refint\Directory,FileStream.dll
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.pdb
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\ref\Directory,FileStream.dll
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Directory,FileStream\Directory,FileStream\obj\Debug\net6.0\Directory,FileStream.csproj.CopyComplete
